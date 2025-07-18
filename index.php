@@ -17,4 +17,6 @@ $check = false;
 
 var_dump($number , $number_x , $name , $check );
 
+//carico esercizio
+
 
